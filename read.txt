@@ -1,0 +1,8 @@
+NOTE:please open this file (jupyter_notebook.ipynb) in the jupyter notebook to view my work
+Disclaimer: jupyter notebook needs to be installed in the system
+
+
+Application name>>	DaTa
+API key>>	f61d23f39ea378f84da511559aa01e31
+Shared secret>>	cd5e1bb29f2fa72f1a5c56102065b6c8
+Registered to	>>SwaroopSS
